@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 - :zap: I love Stats :1234: , programming :computer:, data science.
 - :student: I’m currently a Graduate student in Business Analytics and Information Systems.
-- :mailbox: Reach me@ 3742, Cambridge Woods Tampa, Fl
 - :iphone: +1 (813-539-6715) :e-mail: saisuraja@usf.edu / saisurajargula@gmail.com :link: [Portfolio](https://argulasaisuraj.github.io/Suraj_Website/) :office: [LinkedIn](https://www.linkedin.com/in/suraj-argula/) :pen: [Blogs](https://medium.com/@saisuraj473)
 - 💬 Ask me about Data Science , Statistics and Machine Learning
   
