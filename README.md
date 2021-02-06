@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love Stats, programming, data science, and books
 - 🔭 I’m currently a Graduate student in Business Analytics and Information Systems.
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs 
-- 📫 How to reach me: 
-- 3742, Cambridge Woods Tampa, Fl
-- :phone:+1 (813-539-6715)
+- 📫 How to reach me: 3742, Cambridge Woods Tampa, Fl
+- :iphone::+1 (813-539-6715)
 - :office: [LinkedIn](https://www.linkedin.com/in/suraj-argula/)
 - :speaker: [Podcast](https://medium.com/@saisuraj473)
 
