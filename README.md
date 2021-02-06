@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: I love Stats, programming, data science, and books
-- 🔭 I’m currently a Graduate student in Business Analytics and Information Systems.
+- :zap: I love Stats :1234: , programming :computer:, data science.
+- :student: I’m currently a Graduate student in Business Analytics and Information Systems.
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs 
 - :mailbox: Reach me@ 3742, Cambridge Woods Tampa, Fl
