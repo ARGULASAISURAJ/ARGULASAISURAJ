@@ -4,8 +4,6 @@
 **ARGULASAISURAJ/ARGULASAISURAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 - :iphone: +1 (813-539-6715) :e-mail: saisuraja@usf.edu / saisurajargula@gmail.com :link: [Portfolio](https://argulasaisuraj.github.io/Suraj_Website/) :office: [LinkedIn](https://www.linkedin.com/in/suraj-argula/) :pen: [Blogs](https://medium.com/@saisuraj473)
 - 💬 Ask me about Data Science , Statistics and Machine Learning
   
-[![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=ARGULASAISURAJ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ARGULASAISURAJ/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARGULASAISURAJ)](https://github.com/ARGULASAISURAJ/github-readme-stats)
+[![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=ARGULASAISURAJ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ARGULASAISURAJ/github-readme-stats) [Tab] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARGULASAISURAJ)](https://github.com/ARGULASAISURAJ/github-readme-stats)
