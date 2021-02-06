@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - :pen: [Blogs](https://medium.com/@saisuraj473)
 - 💬 Ask me about Data Science , Statistics and Machine Learning
   
-  [![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=ARGULASAISURAJ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  [![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=ARGULASAISURAJ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ARGULASAISURAJ/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARGULASAISURAJ)](https://github.com/ARGULASAISURAJ/github-readme-stats)
